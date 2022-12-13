@@ -2,7 +2,7 @@ FileSender Contribution Agreements
 ==================================
 
 ## Standard financial contribution agreement 
-FileSender financial contribution agreement: <link>
+FileSender financial contribution agreement: link
 
 ## List of active financial contribution agreements
 |Organisation|Organisation type | Country|Start of agreement| Annual contribution|
